@@ -64,8 +64,8 @@ Required folder structure for custom datasets:
 ```
 customDataFolder/
 ├── calib (optional)/
-│   └── calibrationImages/
-│       └── [calibration image files]
+│   └── [calibration image files]
+|
 ├── [input image files]
 │
 └── K.txt
