@@ -1,0 +1,3 @@
+/home/kaloyantsankov/CLionProjects/SfM/cmake-build-debug/CMakeFiles/SfM.dir
+/home/kaloyantsankov/CLionProjects/SfM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kaloyantsankov/CLionProjects/SfM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

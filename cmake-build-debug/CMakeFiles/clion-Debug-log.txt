@@ -1,0 +1,10 @@
+/snap/clion/291/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/291/bin/ninja/linux/x64/ninja -G Ninja -S /home/kaloyantsankov/CLionProjects/SfM -B /home/kaloyantsankov/CLionProjects/SfM/cmake-build-debug
+CMake Deprecation Warning at /usr/lib/x86_64-linux-gnu/cmake/vtk-9.1/vtk-use-file-deprecated.cmake:1 (message):
+  The `VTK_USE_FILE` is no longer used starting with 8.90.
+Call Stack (most recent call first):
+  CMakeLists.txt:14 (include)
+
+
+-- Configuring done (0.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/kaloyantsankov/CLionProjects/SfM/cmake-build-debug
